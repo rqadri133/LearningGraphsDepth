@@ -1,0 +1,15 @@
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/bin/Debug/net7.0/DFSDepthTraversal
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/bin/Debug/net7.0/DFSDepthTraversal.deps.json
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/bin/Debug/net7.0/DFSDepthTraversal.runtimeconfig.json
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/bin/Debug/net7.0/DFSDepthTraversal.dll
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/bin/Debug/net7.0/DFSDepthTraversal.pdb
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.csproj.AssemblyReference.cache
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.AssemblyInfoInputs.cache
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.AssemblyInfo.cs
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.csproj.CoreCompileInputs.cache
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.dll
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/refint/DFSDepthTraversal.dll
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.pdb
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/DFSDepthTraversal.genruntimeconfig.cache
+/Users/syedqadri/Documents/Development/DFSDepthTraversal/obj/Debug/net7.0/ref/DFSDepthTraversal.dll
